@@ -29,7 +29,7 @@ public class Runner {
             }
         }
 
-        System.out.println(total);
+        System.out.println("Total contained ranges: " + total);
 
         //Part 2
         while(scan.hasNextLine()){ 
@@ -46,7 +46,7 @@ public class Runner {
             }
         }
 
-        System.out.println(total);
+        System.out.println("Total overlapping ranges: " + total);
 
     }
 }
