@@ -1,7 +1,4 @@
-# Project Title
-
-AoC Day4 Coding Solution
-
+# AoC Day4 Coding Solution
 ## Description
 
 Advent of Code Day 4 solution for both parts 1 and 2.   
@@ -14,7 +11,7 @@ Run the following:
 ```
 gradle build   
 gradle run
-``
+```
 gradle run will print out the line that needs to be typed in to execute the program:
 ```
 java -cp build/classes/java/main Runner
